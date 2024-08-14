@@ -8,47 +8,57 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🌾 Kuchai's Brain Tree",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "kuchaicode.github.io/braintree",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Sawarabi Mincho",
+        body: "Klee One",
+        code: "Share Tech Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#edf1f0",
+          lightgray: "#d9e5e3",
+          gray: "#5a7a82",
+          darkgray: "#606060",
+          dark: "#425955",
+          secondary: "#3c8c84",
+          tertiary: "#7dc0b9",
+          highlight: "rgba(91, 163, 156, 0.15)",
+          textHighlight: "rgba(91, 163, 156, 0.35)"
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
+          light: "#182524",
+          lightgray: "#3f4f4d",
+          gray: "#7793a8;",
+          darkgray: "#a0b8b4",
+          dark: "#d1e1df",
+          secondary: "#5ba39c",
+          tertiary: "#7dc0b9",
+          highlight: "rgba(91, 163, 156, 0.15)",
+          textHighlight: "rgba(91, 163, 156, 0.35)"
+        }
+        ,
+        // light: page background
+        // lightgray: borders
+        // gray: graph links, heavier borders
+        // darkgray: body text
+        // dark: header text and icons
+        // secondary: link colour, current graph node
+        // tertiary: hover states and visited graph nodes
+        // highlight: internal link background, highlighted text, highlighted lines of code
+        // textHighlight: markdown highlighted text background
       },
     },
   },

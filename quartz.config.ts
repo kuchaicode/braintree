@@ -28,23 +28,23 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#edf1f0",
+          light: "#e7f0f2",
           lightgray: "#d9e5e3",
           gray: "#5a7a82",
           darkgray: "#606060",
           dark: "#425955",
-          secondary: "#3c8c84",
+          secondary: "#368079",
           tertiary: "#7dc0b9",
           highlight: "rgba(91, 163, 156, 0.15)",
           textHighlight: "rgba(91, 163, 156, 0.35)"
         },
         darkMode: {
-          light: "#182524",
+          light: "#162629",
           lightgray: "#3f4f4d",
           gray: "#7793a8;",
-          darkgray: "#a0b8b4",
+          darkgray: "#c3d6d9",
           dark: "#d1e1df",
-          secondary: "#5ba39c",
+          secondary: "#94e4d1",
           tertiary: "#7dc0b9",
           highlight: "rgba(91, 163, 156, 0.15)",
           textHighlight: "rgba(91, 163, 156, 0.35)"
@@ -73,7 +73,7 @@ const config: QuartzConfig = {
           light: "github-light",
           dark: "github-dark",
         },
-        keepBackground: false,
+        keepBackground: true,
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),

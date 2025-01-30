@@ -6,6 +6,3 @@ Linking notes to each other creates context deeper than just definitively and ri
 More contexts → Bigger picture → More capacity and entropy leading to a Eureka Moment → Less static, more dynamic notes that grow along with us instead of getting discarded.
 
 
-References
-- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
-- 

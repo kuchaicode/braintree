@@ -9,16 +9,25 @@ draft: "true"
 
 [[index|Home]]
 ## Style Testing
-This style is too monotone and boring. 
+
+I'm not happy with the current palette. 
 I will update it soon.
 ### Style Testing
-Nostra Fames Ut Sagittis Donec Pulvinar Massa Magna Curabitur Purus. Amet Curabitur Lacinia Nec In Interdum. Proin Nisi Dolor Ullamcorper Est
+Nostra Fames Ut Sagittis Donec Pulvinar Massa Magna Curabitur Purus. Amet Curabitur Lacinia ==Nec In Interdum. Proin Nisi Dolor Ullamcorper Est==
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing congue ipsum pretium aliquam tincidunt interdum dui quam. Consequat pretium elementum ornare lobortis luctus pharetra elit porttitor fusce maecenas.
 
 > habitant dui nullam arcu mollis neque aptent. hendrerit phasellus ex pharetra semper at. et nullam pulvinar praesent platea class.
 
 *PURUS QUISQUE ADIPISCING LIBERO VENENATIS QUISQUE COMMODO EU COMMODO* SENECTUS ALIQUET IN. EUISMOD TACITI ORNARE AUCTOR AUGUE SAGITTIS PLACERAT FELIS NULLAM DIGNISSIM VELIT EX SUSPENDISSE CLASS. METUS MAECENAS **VESTIBULUM SOCIOSQU NIBH ADIPISCING MOLLIS CONSECTETUR ARCU FERMENTUM GRAVIDA.** DICTUMST NUNC MI POTENTI PORTA TACITI HABITASSE SOLLICITUDIN GRAVIDA A DICTUM APTENT VIVAMUS ELEIFEND.
+
+---
+
+| Test                                | Test                                | Test                                |
+| ----------------------------------- | ----------------------------------- | ----------------------------------- |
+| dui nullam arcu mollis neque aptent | dui nullam arcu mollis neque aptent | dui nullam arcu mollis neque aptent |
+| dui nullam arcu mollis neque aptent | dui nullam arcu mollis neque aptent | dui nullam arcu mollis neque aptent |
+
 
 Egestas ultrices *maecenas tempus varius netus sagittis a.* Placerat vel taciti tortor tortor eu velit varius dignissim pretium. Sodales facilisis fermentum aenean et porttitor maecenas sociosqu congue torquent duis adipiscing volutpat ipsum sapien litora. **Cursus blandit erat convallis in leo quisque.**
 

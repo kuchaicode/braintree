@@ -12,9 +12,6 @@ Reusable built-in functions in [[React]].
 useEffect
 - Perform an effect, such as acquiring data, making DOM changes, timers
 
-useContext
-- Global state management
-
 useRef
 - Store persistent changeable values that do not trigger re-rendering
 - Can use for direct DOM access
@@ -22,11 +19,18 @@ useRef
 useReducer
 - Similar to useState, allowing for custom state tracking involving complex logic
 
+
+useContext
+- Global state management
+- *changes in 19?*
+
 useCallback
 - Cache functions that do not need recalculation, performance optimization
+- *changes in 19?*
 
 useMemo
 - Similar to useCallback but for values instead of functions
+- *changes in 19?*
 
 --- 
 

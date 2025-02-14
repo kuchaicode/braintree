@@ -5,11 +5,12 @@ You can think of it like some sort of sitemap, but I don't intend to link *every
 
 ## ☺️ Health, Wellness, Productivity
 
-| [[Health]] | [[Wellness]] | [[Productivity]]      |
-| ---------- | ------------ | --------------------- |
-|            |              | [[Linked Notetaking]] |
-|            |              |                       |
-|            |              |                       |
+| [[Health]] | [[Wellness]] | [[Productivity]] |
+| ---------- | ------------ | ---------------- |
+|            |              |                  |
+|            |              |                  |
+
+
 
 ## 🎨 Coding, UI-UX, Creativity
 
@@ -17,6 +18,8 @@ You can think of it like some sort of sitemap, but I don't intend to link *every
 | -------------- | ------ | --- | --- |
 | [[React]]      |        |     |     |
 |                |        |     |     |
+
+
 
 
 | UI-UX Design | UX Research |

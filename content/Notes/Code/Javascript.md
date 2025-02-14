@@ -8,6 +8,9 @@
 ## Info 
 ...
 
+
+JS is hell by the way
+
 ## Data: Numbers, Booleans, Strings
 
 - Arithmetic operations: ` +, -, *, /, %`. Supports parenthesis `()` for priority-setting. 
@@ -46,3 +49,6 @@
 
 ## Javascript Libraries 
 - [[React]]
+- Vue
+- Angular
+- Svelte
